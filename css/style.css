@@ -487,17 +487,14 @@ p .btn.btn-default {
 .pit-y {
 	background-color: #FFFF00;
 }
-.row .col-sm-3 p {
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-right: 0px;
-	margin-left: -1px;
-}
 .row.lean-cvs  {
 	border: thick solid #000000;
 }
 .row.lean-cvs .col-sm-3 .row {
 	/* [disabled]border: thick solid #000000; */
+}
+.row .col-sm-3 .detail-th {
+    top: 0px;
 }
 .row.lean-cvs .col-sm-3 {
 	/* [disabled]border: thick solid #000000; */
