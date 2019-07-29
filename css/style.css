@@ -521,10 +521,16 @@ p .btn.btn-default {
 .detail-tab {
 }
 .container.detail-tab .row {
-	border-bottom: thin solid #333333;
-	margin-bottom: 0px;
-	padding-bottom: 10px;
-	padding-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top-width: thin;
+    border-top-style: solid;
+}
+.app-icon {
+    border-width: thin;
+    border-radius: 20%;
+    border-style: none;
 }
 
 
